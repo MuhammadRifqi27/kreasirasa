@@ -1,0 +1,15 @@
+.card {
+  margin: 100px 20px;
+  box-shadow: 20px;
+}
+.gizi1, .karbo{
+  text-align: justify;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.karbo{
+  margin-top: 5px;
+  text-align: justify;
+  font-size: 18px;
+}
